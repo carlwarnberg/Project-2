@@ -6,6 +6,11 @@ In this project, I performed the roles of a pen tester attacking a vulnerable sy
 
 ### Objectives
 
-- Conduct a penetration test using Kali Linux
-- Analyze logs and identify incidents using Kibana 
-- Provide recommendations for system hardening and configuration 
+- Conducted a penetration test of a vulnerable network using Kali Linux
+- Analyzed logs and identified incidents using Kibana 
+- Provided recommendations for system hardening and configuration 
+
+### Notes
+
+- This project was performed in an Azure Lab Services environment 
+- Please see the presentation above for a full breakdown of the network, vulnerabilities discovered, and mitigation strategy recommendations
